@@ -1,0 +1,105 @@
+﻿{
+    "Url": "www.epdata.es/espana-registrado-infracciones-trafico-drogas-ultimo-trimestre/db296123-f620-43be-958d-90798c4cacc7/espana/106",
+    "Respuesta": {
+        "Id": "db296123-f620-43be-958d-90798c4cacc7",
+        "Url": "www.epdata.es/espana-registrado-infracciones-trafico-drogas-ultimo-trimestre/db296123-f620-43be-958d-90798c4cacc7/espana/106",
+        "Titulo": "En España se han registrado 18.313 infracciones por tráfico de drogas hasta el trimestre 4 de 2021﻿ ",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Infracciones penales registradas a nivel trimestral - Número de infracciones penales registradas en lo que va de año para tráfico de drogas como tipo de delito registrado y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio del Interior",
+                    "Clasificacion": null,
+                    "Unidad": "Número de infracciones penales registradas en lo que va de año",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 14509,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 14296,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 13411,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 12069,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 12448,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 12958,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 14133,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 16624,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 17112,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Trimestre 4",
+                            "Parametro": "Trimestre 4",
+                            "Valor": 18313,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
